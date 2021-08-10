@@ -1,7 +1,9 @@
 import java.util.*;
-public class HashSet1 {
+public class HashSet1 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		// TODO Auto-generated method stub
 		HashSet<Integer> s1=new HashSet<>();
 		s1.add(2);

@@ -19,8 +19,9 @@ public class LinkedList1 {
 		List<Employee1> l1 = new LinkedList<>();
 		l1.add(e1);
 		l1.add(e2);
-		for (Employee1 e : l1) {
-			System.out.println(e.Name + " : " + e.Id);
+		for (Employee1 e : l1) 
+		{
+			System.out.println(e.Name + " : " + e.Id);				
 
 		}
 	}
